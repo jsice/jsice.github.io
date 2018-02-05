@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello, World! Game</title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body bgcolor="burlywood">
+        <div id="game-home">
+            <div id="title-box"><h1 id="title">Hello, World!</h1></div>
+            <div class="start-button" data-set="10">10 Quizzes<br>Start Game</div>
+            <div class="start-button" data-set="20">20 Quizzes<br>Start Game</div>
+        </div>
+        <div id="game-play">
+            <div id="quiz">
+                <div id="quiz-header">
+                    <div id="your-score"><p>Your score: <span id="score"></span></p></div>
+                    <div id="quiz-timer"><p>Time left: <span id="time-left"></span></p></div>
+                </div>
+                <div id="quiz-name"></div>
+                <div id="quiz-pic"></div>
+                <div id="your-answer">Your Answer: <input type="text" disabled id="answer-box"></div>
+                <div id="quiz-choices"></div>
+                <div id="answer-button">Answer!!</div>
+                <div id="quiz-result"></div>
+            </div>
+        </div>
+        <div id="game-end">
+            game end
+        </div>
+        <script src="js/jquery-3.3.1.js"></script>
+        <script src="js/game-script.js"></script>
+    </body>
+</html>
