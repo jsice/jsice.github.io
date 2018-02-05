@@ -1,0 +1,311 @@
+[
+    {
+        "ID": 1,
+        "name": "คำว่า Hardware มีศัพท์บัญญัติตามราชบัณฑิตยสถานคืออะไร",
+        "type": 1,
+        "choices": [
+            {
+                "value": "ส่วนอุปกรณ์"
+            },
+            {
+                "value": "ส่วนเครื่อง"
+            },
+            {
+                "value": "กระด้างภัณฑ์"
+            },
+            {
+                "value": "ละมุนภัณฑ์"
+            },
+            {
+                "value": "ส่วนชุดคำสั่ง"
+            }
+        ],
+        "answer": [
+            "ส่วนเครื่อง",
+            "ส่วนอุปกรณ์"
+        ],
+        "picture": "../img/hardware.jpg"
+    },
+    {
+        "ID": 2,
+        "name": "คำว่า Software มีศัพท์บัญญัติตามราชบัณฑิตยสถานคืออะไร",
+        "type": 1,
+        "choices": [
+            {
+                "value": "ส่วนอุปกรณ์"
+            },
+            {
+                "value": "ส่วนเครื่อง"
+            },
+            {
+                "value": "กระด้างภัณฑ์"
+            },
+            {
+                "value": "ละมุนภัณฑ์"
+            },
+            {
+                "value": "ส่วนชุดคำสั่ง"
+            }
+        ],
+        "answer": [
+            "ส่วนชุดคำสั่ง"
+        ],
+        "picture": "../img/software.jpg"
+    },
+    {
+        "ID": 3,
+        "name": "คำว่า Joystick มีศัพท์บัญญัติตามราชบัณฑิตยสถานคืออะไร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "ก้านควบคุม"
+            },
+            {
+                "value": "แท่งหรรษา"
+            },
+            {
+                "value": "ส่วนควบคุม"
+            },
+            {
+                "value": "ด้ามจับ"
+            }
+        ],
+        "answer": [
+            "ก้านควบคุม"
+        ],
+        "picture": "../img/joystick.jpg"
+    },
+    {
+        "ID": 4,
+        "name": "ใครคือ บิดาแแห่งคอมพิวเตอร์",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Charles Babbage",
+                "pic": "../img/babbage.jpg"
+            },
+            {
+                "value": "Steve Jobs",
+                "pic": "../img/jobs.jpg"
+            },
+            {
+                "value": "Alan Turing",
+                "pic": "../img/turing.jpg"
+            },
+            {
+                "value": "John von Neumann",
+                "pic": "../img/neumann.jpg"
+            }
+        ],
+        "answer": [
+            "Charles Babbage"
+        ],
+        "picture": null
+    },
+    {
+        "ID": 5,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 2,
+        "answer": [
+            "alanturing"
+        ],
+        "picture": "../img/turing.jpg"
+    },
+    {
+        "ID": 6,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 2,
+        "answer": [
+            "dennisritchie"
+        ],
+        "picture": "../img/ritchie.jpg"
+    },
+    {
+        "ID": 7,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Edsger W. Dijkstra"
+            },
+            {
+                "value": "Dennis Ritchie"
+            },
+            {
+                "value": "Ken Thompson"
+            },
+            {
+                "value": "Tim Berners-Lee"
+            }
+        ],
+        "answer": [
+            "Edsger W. Dijkstra"
+        ],
+        "picture": "../img/dijkstra.jpg"
+    },
+    {
+        "ID": 8,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 2,
+        "answer": [
+            "stevejobs"
+        ],
+        "picture": "../img/jobs.jpg"
+    },
+    {
+        "ID": 9,
+        "name": "ใครคือบิดาแแห่งอินเทอร์เน็ต",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Vint Cerf"
+            },
+            {
+                "value": "Tim Berners-Lee"
+            },
+            {
+                "value": "Tim Burton"
+            },
+            {
+                "value": "Van Jacobson"
+            }
+        ],
+        "answer": [
+            "Vint Cerf"
+        ],
+        "picture": null
+    },
+    {
+        "ID": 10,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 2,
+        "answer": [
+            "markzuckerberg"
+        ],
+        "picture": "../img/zuckerberg.jpg"
+    },
+    {
+        "ID": 11,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 2,
+        "answer": [
+            "elonmusk"
+        ],
+        "picture": "../img/musk.jpg"
+    },
+    {
+        "ID": 12,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Ted Nelson"
+            },
+            {
+                "value": "Radia Perlman"
+            },
+            {
+                "value": "Van Jacobson"
+            },
+            {
+                "value": "Vint Cerf"
+            }
+        ],
+        "answer": [
+            "Ted Nelson"
+        ],
+        "picture": "../img/nelson.jpg"
+    },
+    {
+        "ID": 13,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Ted Nelson"
+            },
+            {
+                "value": "Radia Perlman"
+            },
+            {
+                "value": "Van Jacobson"
+            },
+            {
+                "value": "Vint Cerf"
+            }
+        ],
+        "answer": [
+            "Radia Perlman"
+        ],
+        "picture": "../img/perlman.jpg"
+    },
+    {
+        "ID": 14,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Ted Nelson"
+            },
+            {
+                "value": "Radia Perlman"
+            },
+            {
+                "value": "Van Jacobson"
+            },
+            {
+                "value": "Vint Cerf"
+            }
+        ],
+        "answer": [
+            "Van Jacobson"
+        ],
+        "picture": "../img/jacobson.jpg"
+    },
+    {
+        "ID": 15,
+        "name": "บุคคลในรูปนี้คือใคร",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Ted Nelson"
+            },
+            {
+                "value": "Radia Perlman"
+            },
+            {
+                "value": "Van Jacobson"
+            },
+            {
+                "value": "Vint Cerf"
+            }
+        ],
+        "answer": [
+            "Vint Cerf"
+        ],
+        "picture": "../img/cerf.jpg"
+    },
+    {
+        "ID": 16,
+        "name": "ใครคือผู้ก่อตั้งWorld Wide Web",
+        "type": 0,
+        "choices": [
+            {
+                "value": "Vint Cerf"
+            },
+            {
+                "value": "Tim Berners-Lee"
+            },
+            {
+                "value": "Tim Burton"
+            },
+            {
+                "value": "Van Jacobson"
+            }
+        ],
+        "answer": [
+            "Tim Berners-Lee"
+        ],
+        "picture": null
+    }
+]
