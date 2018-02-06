@@ -7,7 +7,7 @@
 
 * {
     font-family: 'main-font', cursive;
-    font-size: 25;
+    font-size: 25px;
 }
 #title-box {
     width: 100%;
@@ -119,7 +119,9 @@
     -ms-user-select: none;
     user-select: none;   
 }
-
+#quiz-choices {
+    text-align: center;
+}
 #quiz-header {
     width: 80%;
     margin: 0 auto;
@@ -175,7 +177,7 @@
     .choice {
         display: block;
         width: 50%;
-        margin: 10 auto;
+        margin: 10px auto;
     }
 }
 
@@ -183,7 +185,7 @@
     .choice {
         display: block;
         width: 80%;
-        margin: 10 auto;
+        margin: 10px auto;
     }
 
     #answer-button {
